@@ -1,5 +1,5 @@
 # GoldBankier
-@Test checkPeriods
+@Test checkTime
 Przejdź na stronę notowań surowców
 Przejdź na notawania złota
 Zmień okres notowań na tygodniowy
